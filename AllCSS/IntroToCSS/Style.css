@@ -1,0 +1,40 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: white;
+}
+/*
+#Paragraph1{
+    color: white;
+}
+
+#Paragraph2{
+    color: red;
+}
+
+#Paragraph3{
+    color: blue;
+}
+
+#Paragraph4{
+    color: orange;
+}
+
+#Paragraph5{
+    color: yellow;
+}
+
+#Paragraph6{
+    color: gray;
+}
+*/
+
+.odd{
+    color: red;
+}
+
+.even{
+    color: blue;
+}
